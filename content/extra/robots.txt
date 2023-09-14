@@ -1,0 +1,3 @@
+Disallow: /resume
+Disallow: /images/resume.pdf
+Disallow: /images/resume.docx
